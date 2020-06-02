@@ -1,44 +1,46 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
+<p align="center">
+  <a href="https://rocketseat.com.br/gostack">
+    <img alt="Go Stack" title="Go Stack" src="https://github.com/fabiopicolijr/gostack-challenge-node-concepts/blob/master/src/assets/go-stack.jpg" />
+  </a>
+</p>
+<p align="center"><b>GoStack - Rocketseat bootcamp class</b> First React Project :rocket:</p>
 
-## Available Scripts
+<p align="center">
+  <img alt="Repo Size" title="Repo Size" src="https://img.shields.io/github/repo-size/fabiopicolijr/gostack-first-react-project?color=282A36" />
+  <img alt="Languages" title="Languages" src="https://img.shields.io/github/languages/count/fabiopicolijr/gostack-first-react-project?color=282A36" />
+  <img alt="Language top" title="Language top" title="Made By fabiopicolijr"  src="https://img.shields.io/github/languages/top/fabiopicolijr/gostack-first-react-project?color=282A36" />
+  <a href="https://github.com/fabiopicolijr">
+    <img alt="Made By fabiopicolijr" title="Made By fabiopicolijr" src="https://img.shields.io/badge/made%20by-fabiopicolijr-917ECE" alt="Made by fabiopicolijr">
+  <a>
+</p>
+<br />
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+## :running: Steps
+```bash
+  # Install dependencies
+  yarn
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  # Run test suits
+  yarn test
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  # Start application with a Android Emulator
+  yarn dev:server
+```
 
-### `yarn test`
+<br />
+<br />
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `yarn build`
+## :memo: License
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+MIT License. See the file [LICENSE](LICENSE.md) for more details.
+<br />
+<br />
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Developed :sparkles: by @fabiopicolijr :point_right: [See my linkedin](http://www.linkedin.com/in/fabiopicolijr).
