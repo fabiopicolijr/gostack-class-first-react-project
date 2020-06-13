@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://rocketseat.com.br/gostack">
-    <img alt="Go Stack" title="Go Stack" src="https://github.com/fabiopicolijr/gostack-challenge-node-concepts/blob/master/src/assets/go-stack.jpg" />
+       <img alt="Go Stack" title="Go Stack" src="https://github.com/fabiopicolijr/gostack-challenge-node-concepts/blob/master/src/assets/go-stack.jpg" />
   </a>
 </p>
 <p align="center"><b>GoStack - Rocketseat bootcamp class</b> First React Project :rocket:</p>
@@ -21,10 +21,7 @@
 ## :running: Steps
 ```bash
   # Install dependencies
-  yarn
-
-  # Run test suits
-  yarn test
+  yarn start
 
   # Start application with a Android Emulator
   yarn dev:server
