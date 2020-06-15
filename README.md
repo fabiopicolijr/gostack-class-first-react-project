@@ -22,7 +22,7 @@
 
 ---
 
-##  :fire: About the project
+##  :fire:   About the project
 
 <p>
   <b>GitHub Explorer</b> is a project that aims to connect to github public API and list repositories details, like opened issues, stars and forks. This application contains: Web App (React).
@@ -31,7 +31,7 @@
 ---
 
 
-##  :earth_americas: Web App
+##  :earth_americas:   Web App
 
 ```bash
 
@@ -45,7 +45,7 @@
 
 ---
 
-## :memo: License
+## :memo:  License
 
 MIT License. See the file [LICENSE](LICENSE.md) for more details.
 <br />
