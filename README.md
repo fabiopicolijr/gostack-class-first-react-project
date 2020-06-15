@@ -1,13 +1,13 @@
 <h1 align="center"><img src="src/assets/logo.png"></h1>
 
 <h4 align="center">
-  🚀 GitHub Explorer
+  🚀 &nbsp;&nbsp;GitHub Explorer
 </h4>
 
 <p align="center">
-<img alt="Repo Size" title="Repo Size" src="https://img.shields.io/github/repo-size/fabiopicolijr/desafio-conceitos-node?color=282A36" />
-  <img alt="Languages" title="Languages" src="https://img.shields.io/github/languages/count/fabiopicolijr/desafio-conceitos-node?color=282A36" />
-  <img alt="Language top" title="Language top" title="Made By fabiopicolijr"  src="https://img.shields.io/github/languages/top/fabiopicolijr/desafio-conceitos-node?color=282A36" />
+<img alt="Repo Size" title="Repo Size" src="https://img.shields.io/github/repo-size/fabiopicolijr/github-explorer?color=282A36" />
+  <img alt="Languages" title="Languages" src="https://img.shields.io/github/languages/count/fabiopicolijr/github-explorer?color=282A36" />
+  <img alt="Language top" title="Language top" title="Made By fabiopicolijr"  src="https://img.shields.io/github/languages/top/fabiopicolijr/github-explorer?color=282A36" />
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=282A36">
   <a href="https://github.com/fabiopicolijr">
     <img alt="Made By fabiopicolijr" title="Made By fabiopicolijr" src="https://img.shields.io/badge/made%20by-fabiopicolijr-04D361" alt="Made by fabiopicolijr" />
